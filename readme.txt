@@ -1,2 +1,1 @@
-new_text_3
-
+new_text_2
